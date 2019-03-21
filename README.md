@@ -1,4 +1,4 @@
-# Image-prject
+# Image-project
 Extraction of Blood vessel in retina
 Diabetic retinopathy is a disease, which forms a severe threat on sight. It may reach to blindness among working age people.
 By analysing and detecting of vasculature structures in retinal images, we can early detect the diabetes in advanced stages by comparison of its states of retinal blood vessels.
